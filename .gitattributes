@@ -8,3 +8,4 @@
 *.pxd linguist-vendored=true
 *.pxi linguist-vendored=true
 *.c++ linguist-vendored=true
+*.xslt linguist-vendored=true
